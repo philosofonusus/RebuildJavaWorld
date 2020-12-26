@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a82d49cd-3afc-4a4e-b864-71f1732c955c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Field.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Field.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cfg.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/cfg.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/idx.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +48,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/atom/SimpleReactNative" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -75,7 +71,9 @@
       <option name="presentableId" value="Default" />
       <updated>1608089295172</updated>
       <workItem from="1608089296421" duration="7081000" />
-      <workItem from="1608143622371" duration="11991000" />
+      <workItem from="1608143622371" duration="12990000" />
+      <workItem from="1608175676869" duration="1041000" />
+      <workItem from="1608178782076" duration="19000" />
     </task>
     <servers />
   </component>
@@ -83,6 +81,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="426" y="160" width="424" height="496" key="FileChooserDialogImpl" timestamp="1608178800498">
+      <screen x="0" y="27" width="1280" height="773" />
+    </state>
+    <state x="426" y="160" width="424" height="496" key="FileChooserDialogImpl/0.27.1280.773@0.27.1280.773" timestamp="1608178800498" />
     <state x="124" y="14" width="1031" height="742" key="SettingsEditor" timestamp="1608091908841">
       <screen x="0" y="27" width="1280" height="773" />
     </state>

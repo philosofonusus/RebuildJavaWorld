@@ -3,7 +3,7 @@ import styled from "styled-components";
 import {useSelector} from "react-redux";
 import {RootState} from "../redux/reducers";
 import {Cell} from "./Cell";
-import {Idx} from "../idx";
+import { Idx } from "../cfg";
 
 const FieldContainer = styled.div`
   display: grid;

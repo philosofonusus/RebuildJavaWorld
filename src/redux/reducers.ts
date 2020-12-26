@@ -1,6 +1,6 @@
 import {combineReducers} from 'redux'
 import {MOVE_PLAYER, SET_LENGTH} from "./types";
-import {Idx} from "../idx";
+import {Idx} from "../cfg";
 import {isMovableThrow} from "../cfg";
 
 interface RE{
